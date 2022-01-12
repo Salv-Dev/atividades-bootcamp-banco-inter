@@ -1,10 +1,12 @@
-<h2 align="center">
+<div align="center">
 <br>
   <img src="https://hermes.digitalinnovation.one/tracks/f00290e5-b695-4ef6-b88a-d5aae004bd66.png" alt="logo bootcamp Inter" width="150">
 <br>
-</h2>
+</div>
 
-<h1 align="center">Bootcamp Inter front-end developer</h1>
+<h3 align="center">BOOTCAMP BANCO INTER FRONT-END DEVELOPER</h3>
+<br>
+<br>
 <br>
 
 Aqui se encontra todas as atividades que é passada no bootcamp, sendo que todas as atividades concluídas serão dado um check, conforme a lista abaixo. A lista será atualizada conforme a progressão do curso.
