@@ -31,9 +31,9 @@ Aqui se encontra todas as atividades que é passada no bootcamp, sendo que todas
 
 #### *Javascript*
 
-- [ ] Introdução ao Javascript.
-- [ ] Sintaxe básica em Javascript.
-- [ ] Sintaxe e operadores.
+- [x] Introdução ao Javascript.
+- [x] Sintaxe básica em Javascript.
+- [x] Sintaxe e operadores.
 - [ ] Variáveis e tipos.
 - [ ] Funções.
 - [ ] Coleções.
