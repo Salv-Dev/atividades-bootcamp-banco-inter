@@ -9,7 +9,7 @@
 <br>
 <br>
 
-Aqui se encontra todas as atividades que é passada no bootcamp, sendo que todas as atividades concluídas serão dado um check, conforme a lista abaixo. A lista será atualizada conforme a progressão do curso.
+Aqui se encontra todas as atividades que é passada no bootcamp, sendo que todas as atividades concluídas serão dado um check, conforme a lista abaixo. A lista será atualizada conforme a progressão no curso.
 
 *Obs.: Este repositório é a resposta do desafio de conclusão da aula **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.***
 
@@ -34,10 +34,10 @@ Aqui se encontra todas as atividades que é passada no bootcamp, sendo que todas
 - [x] Introdução ao Javascript.
 - [x] Sintaxe básica em Javascript.
 - [x] Sintaxe e operadores.
-- [ ] Variáveis e tipos.
-- [ ] Funções.
-- [ ] Coleções.
-- [ ] Debugging e error handling.
+- [x] Variáveis e tipos.
+- [x] Funções.
+- [x] Coleções.
+- [x] Debugging e error handling.
 - [ ] Javascript assíncrono.
 - [ ] Orientação a objetos.
 - [ ] Map, Filter e Reduce.
